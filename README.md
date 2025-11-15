@@ -139,10 +139,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" />
 <br>PyCharm
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="48" height="48" />
-<br>PhpStorm
-</td>
 </tr>
 </table>
 
@@ -159,7 +155,7 @@
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" />
-<br>Blender
+<br>Blender (Basics)
 </td>
 </tr>
 </table>
@@ -168,15 +164,6 @@
 
 ---
 
-## **GitHub Analytics**
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshsm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&hide=stars)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshsm&theme=dark&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4AA&sideLabels=00D4AA)
-  
-</div>
 
 ---
 
@@ -215,12 +202,11 @@ $ neofetch mukesh_profile
 
 ```javascript
 class Developer {
-    constructor() {
+    public Developer() {
         this.name = "Mukesh SM";
         this.role = "Software Developer";
         this.languages = ["Python", "C", "Java"];
         this.currentlyLearning = "Java (going deeper!)";
-        this.loveLanguage = "Java ☕❤️ (it's just perfect!)";
         this.nextGoals = ["PHP", "Tailwind", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB"];
         this.currentFocus = "Building cool stuff with Java";
         this.approach = "Clean code, optimal performance";
@@ -245,21 +231,6 @@ class Developer {
 I'm a software developer who works with **Python**, **C**, and **Java**. Right now I'm diving deep into **Java** because honestly, I love everything about it! Planning to learn some cool web stuff and build awesome projects.
 
 **What I'm up to:**
-- Working with Python, C, and Java every day
-- Really getting into Java development (it's amazing!)
+- Working with Python and Java every day
 - Want to learn modern web technologies
 - I know MySQL and have used WAMP server before
-
----
-
-<div align="center">
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukeshsm&theme=github-compact&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true)
-  
-  ---
-  
-  **"Java is not just a language, it's poetry in code form"**
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mukeshsm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
-  
-</div>
