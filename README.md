@@ -162,38 +162,6 @@
 
 </div>
 
----
-
-
----
-
-## **System Information**
-
-```bash
-$ neofetch mukesh_profile
-                   -`                    mukesh@github
-                  .o+`                   --------------
-                 `ooo/                   OS: Developer
-                `+oooo:                  Host: GitHub Profile
-               `+oooooo:                 Kernel: Programming Logic
-               -+oooooo+:                Uptime: Constantly Learning
-             `/:-:++oooo+:               Shell: Multi-Language
-            `/++++/+++++++:              Resolution: Problem Solving
-           `/++++++++++++++:             DE: Code Editor
-          `/+++ooooooooo+++:             WM: Productivity
-         ./ooosssso++osssso+`            Terminal: Command Line Interface
-        .oossssso-````/ossss+`           CPU: Logic Processing Unit
-       -osssssso.      :ssssso.          Memory: Continuous Learning
-      :osssssss/        osssso+-         Disk: Knowledge Base
-     /ossssssss/        +ssssooo:        
-   `/ossssso+/:-        -:/+osssso+-     Languages: Java, Python, C, PHP
-  `+sso+:-`                 `.-/+oso:    Frameworks: Bootstrap, Web Dev
- `++:.                           `-/+/   Editors: VS Code, Eclipse, PyCharm
- .`                                 `/   Creative: Photoshop, Premiere, Blender
-```
-
----
-
 ## **Core Focus Areas**
 
 <div align="center">
